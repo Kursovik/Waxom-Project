@@ -1,0 +1,15 @@
+body {
+  margin: 0;
+  padding: 0; }
+
+.message-success {
+  border: 5px solid #8c8c8c;
+  margin: 50px auto;
+  width: 50%;
+  text-align: center; }
+  .message-success__title {
+    font-size: 42px;
+    color: #555;
+    font-weight: 500; }
+
+/*# sourceMappingURL=message-success.css.map */
