@@ -1,4 +1,4 @@
-# first
+# Waxom Project
 Для запуска сайта нужно:
 - install nodejs
 -install npm
