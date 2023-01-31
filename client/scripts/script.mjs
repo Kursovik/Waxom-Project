@@ -67,6 +67,7 @@ function headerCarousel() {
     })
   })
 }
+//Простая валидация формы
 function validateForm() {
   const form = document.querySelector(".feedback__form"),
     inputs = document.querySelectorAll(".form__input")
